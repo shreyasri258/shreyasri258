@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello+World...+👋,+I'm+Shreya+Sri;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
+ <h1 align="center">Hi 👋, I'm Shreya Sri</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </h1>
-<!-- <h1 align="center">Hi 👋, I'm Shreya Sri</h1> -->
-<!-- <h3 align="center">An Enthusiastic developer from India!!!</h3> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasri258&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasri258" /> </p>
 
