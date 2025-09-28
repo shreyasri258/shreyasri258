@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Shreya Sri</h1>
+ <h1 align="center">Hi 👋, I'm Shreya Sri Ankala</h1>
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </h1>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **pretty much everything**
 
-- 📫 reach me **shreyakerti@gmail.com**
+- 📫 reach me **shreyasri.ankala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Shreya_sri25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas64190849" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-sri-a83a20205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreya-sri-a83a20205/" height="30" width="40" /></a>
 </p>
 
